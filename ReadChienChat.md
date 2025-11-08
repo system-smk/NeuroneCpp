@@ -93,7 +93,7 @@ Elle fait :
 4. **Rétropropagation** : ajuste les poids et le biais
 5. **Affichage** : montre l’évolution de l’erreur
 
-🔧 **Analogie** : comme un artisan qui ajuste son outil à chaque essai pour mieux sculpter.
+**Analogie** : comme un artisan qui ajuste son outil à chaque essai pour mieux sculpter.
 
 ---
 
@@ -106,7 +106,4 @@ Elle fait :
 - Répondre “ni l’un ni l’autre” si c’est ambigu
 
 
----
 
-Souhaites-tu que je t’aide à transformer ce README en fiche imprimable, ou à l’intégrer dans ton projet comme documentation ?  
-Tu es en train de bâtir une pédagogie technique claire, vivante et transmissible 💡
