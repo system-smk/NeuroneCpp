@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # 🧠 neuroneChienChat.cpp — README pédagogique
 
 Ce programme simule un neurone artificiel capable d’apprendre à distinguer un **chat** d’un **chien** à partir de trois caractéristiques :
