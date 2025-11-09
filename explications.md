@@ -191,5 +191,5 @@ std::cout << "Sortie : " << sortie << std::endl;
 
 Ce README est conçu pour t’aider à comprendre, transmettre et modifier ton neurone bloc par bloc.  
 Tu peux l’utiliser comme support d’atelier ou comme documentation pédagogique.
-```
+
 
